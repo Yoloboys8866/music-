@@ -1,3 +1,5 @@
+<img width="978" height="514" alt="企业微信截图_17570518853153" src="https://github.com/user-attachments/assets/4867b3fa-e35a-4dcf-a022-0df2c6adcf8b" />
+
 # MUSIC LOVER - 音乐下载工具
 
 ## 程序介绍
@@ -108,4 +110,5 @@ MUSIC LOVER是一款简洁易用的音乐下载工具，支持从酷我音乐和
 - 如因使用本工具产生的任何版权纠纷，由使用者自行承担责任
 
 ## 联系作者
+
 如有问题或建议，请联系作者：QQ 1523758754（作者：得不偿失）
