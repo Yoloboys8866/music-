@@ -1,4 +1,5 @@
-<img width="978" height="514" alt="企业微信截图_17570518853153" src="https://github.com/user-attachments/assets/4867b3fa-e35a-4dcf-a022-0df2c6adcf8b" />
+<img width="982" height="488" alt="image" src="https://github.com/user-attachments/assets/5e8daeb2-98f7-49a2-88d4-5d2770a0e8f4" />
+
 
 # MUSIC LOVER - 音乐下载工具
 
@@ -112,3 +113,4 @@ MUSIC LOVER是一款简洁易用的音乐下载工具，支持从酷我音乐和
 ## 联系作者
 
 如有问题或建议，请联系作者：QQ 1523758754（作者：得不偿失）
+
